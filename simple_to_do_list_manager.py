@@ -42,7 +42,7 @@ while True:
   print("3. Remove Task")
   print("4. Exit")
 
-  user = input("Enter your choice (1-4): ")
+  user = input("Enter your choice: ")
 
   if user == "1":
     add_task()
